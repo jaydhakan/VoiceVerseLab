@@ -1,0 +1,16 @@
+cinemagoer==2023.5.1
+openai==1.46.1
+PyAutoGUI==0.9.54
+pyjokes==0.8.3
+PyPDF4==1.27.0
+pyttsx3==2.97
+pytube==15.0.0
+pywhatkit==5.4
+requests==2.32.3
+SpeechRecognition==3.10.4
+wikipedia==1.4.0
+wolframalpha-cli==1.1.0
+
+gTTS==2.5.3
+playsound==1.2.2
+pydub==0.25.1
