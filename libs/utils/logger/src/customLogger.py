@@ -5,7 +5,7 @@ import sys
 from datetime import datetime, timezone
 
 
-from utils.logger.src.constants import COLORS
+from libs.utils.logger.src.constants import COLORS
 
 
 class ColoredFormatter(logging.Formatter):
